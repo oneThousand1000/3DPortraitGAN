@@ -13,7 +13,7 @@ The paper PDF and supplementary PDF are coming soon.
 
 
 
-![teaser](./imgs/teaser.jpg)cc
+![teaser](./imgs/teaser.jpg)
 
 
 
