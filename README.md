@@ -5,7 +5,16 @@
 >
 > [Yiqian Wu](https://onethousandwu.com/), [Hao Xu](https://xh38.github.io/), [Xiangjun Tang](https://yuyujunjun.github.io/), [Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/publications.html), [Xiaogang Jin*](http://www.cad.zju.edu.cn/home/jin)
 
-[Paper (Arxiv)](https://arxiv.org/abs/2307.14770)              [Supplementary (Google Drive)](https://drive.google.com/file/d/16aNE5USZ0U32bgGJS1G5xWrY0oIMTfre/view?usp=sharing)
+<div align="center">
+
+[![Project](https://img.shields.io/badge/3DPortraitGAN-1?label=Project&color=8B93FF)](https://onethousandwu.com/3DPortraitGAN.github.io/)
+[![Paper](https://img.shields.io/badge/Main%20Paper-1?color=58A399)](https://arxiv.org/abs/2307.14770)
+[![Suppl](https://img.shields.io/badge/Supplementary-1?color=378CE7)](https://drive.google.com/file/d/16aNE5USZ0U32bgGJS1G5xWrY0oIMTfre/view?usp=sharing)
+[![Github](https://img.shields.io/github/stars/oneThousand1000/3DPortraitGAN)](https://github.com/oneThousand1000/3DPortraitGAN)
+
+</div>
+
+
 
 
 
@@ -27,13 +36,15 @@ Our 3DPortraitGAN can generate one-quarter headshot 3D avatars and output portra
 
 - [2023-08-22] The paper PDF and supplementary PDF are now available.
 
+- [2024-03-28] We have released inference code and pretrained models!
+
   
 
 
 
-## Available sources (TBD)
+## Available sources 
 
-After our paper is accepted, We will release our 360°PHQ dataset, code and pre-trained models for reproducible research.
+After our paper is accepted, We will release our 360°PHQ dataset for reproducible research.
 
 |                                                              | Description                            |
 | ------------------------------------------------------------ | -------------------------------------- |

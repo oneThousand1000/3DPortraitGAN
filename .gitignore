@@ -1,0 +1,17 @@
+*.pkl
+*.pth
+./3DPortraitGAN/out
+./3DPortraitGAN/.idea
+./3DPortraitGAN/test_data/
+./3DPortraitGAN/real_data/
+
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+
+
+*.pt
+*.pth.tar
+
+command
