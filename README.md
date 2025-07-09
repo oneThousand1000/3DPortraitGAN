@@ -1,14 +1,14 @@
 # 3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses
 
 
-> **[Preprint] 3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses**
->
+> **[IEEE TCSVT] 3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses**
+> IEEE Transactions on Circuits and Systems for Video Technology
 > [Yiqian Wu](https://onethousandwu.com/), [Hao Xu](https://xh38.github.io/), [Xiangjun Tang](https://yuyujunjun.github.io/), [Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/publications.html), [Xiaogang Jin*](http://www.cad.zju.edu.cn/home/jin)
 
 <div align="center">
 
 [![Project](https://img.shields.io/badge/3DPortraitGAN-1?label=Project&color=8B93FF)](https://onethousandwu.com/3DPortraitGAN.github.io/)
-[![Paper](https://img.shields.io/badge/Main%20Paper-1?color=58A399)](https://arxiv.org/abs/2307.14770)
+[![Paper](https://img.shields.io/badge/Main%20Paper-1?color=58A399)](https://ieeexplore.ieee.org/document/11072208)
 [![Suppl](https://img.shields.io/badge/Supplementary-1?color=378CE7)](https://drive.google.com/file/d/16aNE5USZ0U32bgGJS1G5xWrY0oIMTfre/view?usp=sharing)
 [![Github](https://img.shields.io/github/stars/oneThousand1000/3DPortraitGAN)](https://github.com/oneThousand1000/3DPortraitGAN)
 
