@@ -76,14 +76,16 @@ We also thank Hongyu Huang, Yuqing Zhang, Fengjie Lu, and Xiaokang Shen for thei
 If you find our work helpful to your research, please consider citing:
 
 ```
-@misc{wu20233dportraitgan,
-      title={3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses}, 
-      author={Yiqian Wu and Hao Xu and Xiangjun Tang and Hongbo Fu and Xiaogang Jin},
-      year={2023},
-      eprint={2307.14770},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+@ARTICLE{11072208,
+  author={Wu, Yiqian and Xu, Hao and Tang, Xiangjun and Shangguan, Yue and Fu, Hongbo and Jin, Xiaogang},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={3DPortraitGAN: Learning One-Quarter Headshot 3D GANs from a Single-View Portrait Dataset with Diverse Body Poses}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Cameras;Three-dimensional displays;Generators;Faces;Training;Neck;Geometry;Face recognition;Deformation;Rendering (computer graphics);Portrait generation;3D-aware GANs},
+  doi={10.1109/TCSVT.2025.3586442}}
 ```
 
 
